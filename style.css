@@ -35,7 +35,7 @@ body {
 .header div ul {
     list-style-type: none;
 }
-/*adding better spacing to move the 3 terms to the left to better fit the company's intended image. */
+
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
