@@ -35,10 +35,10 @@ body {
 .header div ul {
     list-style-type: none;
 }
-/*adding better spacing to move the 3 terms to the left to better fit the company's intended image. changed 25px to 50px. also adds more spacing in between for better visual experience*/
+/*adding better spacing to move the 3 terms to the left to better fit the company's intended image. */
 .header div ul li {
     display: inline-block;
-    margin-left: 50px;
+    margin-left: 25px;
 }
 
 a {
